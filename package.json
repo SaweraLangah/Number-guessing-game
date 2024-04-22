@@ -1,6 +1,6 @@
 {
-  "name": "1a5a-number-guessing-game",
-  "version": "1.0.1",
+  "name": "1a53a-number-guessing-game",
+  "version": "1.0.2",
   "description": "",
   "main": "main.js",
   "type": "module",
@@ -21,6 +21,7 @@
   "dependencies": {
     "1a23a-number-guessing-game": "^2.0.1",
     "1a2a-number-guessing-game": "^1.0.1",
+    "1a53a-number-guessing-game": "^1.0.2",
     "1a5a-number-guessing-game": "^1.0.1",
     "inquirer": "^9.2.17",
     "simple-calculator-27": "^1.0.0"
