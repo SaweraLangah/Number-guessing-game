@@ -3,7 +3,6 @@
 import inquirer from "inquirer";
 
 const randomNumber = Math.floor (Math.random() * 10 + 1 );
-console.log(randomNumber);
 
 const answer = await inquirer.prompt([
     {
@@ -14,7 +13,7 @@ const answer = await inquirer.prompt([
 ]);
 
 if (answer.userGuessedNumber === randomNumber) {
-    console.log("congraculation you guess a rite number");
+    console.log("congratulation you guess a right number");
 }else{
     console.log("you guess a wrong number");
 }
