@@ -16,4 +16,4 @@ if (answer.userGuessedNumber === randomNumber) {
     console.log("congratulation you guess a right number");
 }else{
     console.log("you guess a wrong number");
-}
+};
